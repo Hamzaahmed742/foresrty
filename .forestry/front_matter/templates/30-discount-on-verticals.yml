@@ -1,4 +1,9 @@
 ---
 label: 30% discount on verticals
 hide_body: true
-fields: []
+fields:
+- name: linux
+  type: text
+  config:
+    required: false
+  label: linux
